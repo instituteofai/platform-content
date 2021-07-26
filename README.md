@@ -1,2 +1,1 @@
-# platform-content
-IAI Platform content
+# IAI Platform Content
